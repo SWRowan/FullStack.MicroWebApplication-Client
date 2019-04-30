@@ -1,5 +1,5 @@
-![Zip Homescreen](https://github.com/SWRowan/Zip-Budget-Client/ZipBudgetHome.png)
-![Zip Account Screen](https://github.com/SWRowan/Zip-Budget-Client/AccountScreen.png)
+![ZipBudget Homescreen](https://github.com/SWRowan/Zip-Budget-Client/blob/master/ZipBudgetHome.png)
+![Zip Budget Account Screen](https://github.com/SWRowan/Zip-Budget-Client/blob/master/AccountScreen.png)
 **ZipCode Group #3's Budget Application:**
 https://budgetapp-client.herokuapp.com/
 
